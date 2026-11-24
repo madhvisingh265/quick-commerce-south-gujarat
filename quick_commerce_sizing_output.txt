@@ -1,0 +1,21 @@
+city,pop2026,households,daily_orders_low,base,high
+Vapi,249046,59297,237,474,1186
+Navsari,396708,94454,378,756,1889
+Bharuch,311304,74120,296,593,1482
+Valsad,250296,59594,238,477,1192
+total households 287465
+Low: market 1150/day, annual GMV Rs18.6 Cr; Zepto SOM 172/day = 0.22 breakeven stores; SOM GMV Rs2.8 Cr
+Base: market 2300/day, annual GMV Rs37.3 Cr; Zepto SOM 460/day = 0.57 breakeven stores; SOM GMV Rs7.5 Cr
+High: market 5749/day, annual GMV Rs93.1 Cr; Zepto SOM 1725/day = 2.16 breakeven stores; SOM GMV Rs27.9 Cr
+TAM (metro adoption 34%, 6 orders/mo): 19548/day, Rs317 Cr/yr
+Vapi adoption 6% freq 4: market 474/day; Zepto@30% 142
+Vapi adoption 6% freq 6: market 712/day; Zepto@30% 213
+Vapi adoption 8% freq 4: market 632/day; Zepto@30% 190
+Vapi adoption 8% freq 6: market 949/day; Zepto@30% 285
+Vapi adoption 10% freq 4: market 791/day; Zepto@30% 237
+Vapi adoption 10% freq 6: market 1186/day; Zepto@30% 356
+Vapi adoption 12% freq 4: market 949/day; Zepto@30% 285
+Vapi adoption 12% freq 6: market 1423/day; Zepto@30% 427
+Break-even adoption for 4 Zepto stores at 20% share, 4 orders/mo: 42%
+Break-even adoption for 4 Zepto stores at 30% share, 6 orders/mo: 19%
+rival stores 11 break-even orders needed 8800
